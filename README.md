@@ -64,3 +64,7 @@ This repo is meant to be pulled in as a data file by a compatible consumer
 than run directly. There's no build step, dependency list, or entry point —
 just update `omni.json` (and add icons under `icons/icons/` as needed) and
 consumers that fetch this repo's raw content will pick up the change.
+
+## License
+
+MIT — see [LICENSE](LICENSE).
