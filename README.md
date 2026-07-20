@@ -20,7 +20,7 @@ straight out of a filename or release name, covering:
 
 ## Repo layout
 
-```
+```text
 omni.json          the ruleset (see schema below)
 icons/icons/*.png   30 badge icons referenced from omni.json
 ```
